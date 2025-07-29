@@ -1,18 +1,9 @@
-# dependencies
 node_modules/
 package-lock.json
 
-# build
 dist/
-build/
-.cache/
 
-# logs
 *.log
 
-# environment
 .env
 .env.*
-
-# system files
-.DS_Store
