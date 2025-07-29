@@ -9,7 +9,7 @@ A simple RESTful Blog API built with **Node.js**, **Express**, and **MongoDB (Mo
 ### 1. Clone the Repository
 
 ```terminal
-git clone https://github.com/yourusername/blog-app.git
+git clone https://github.com/Ahmed7Alwakeel/blog-app.git
 cd blog-app
 ```
 
